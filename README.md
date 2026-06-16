@@ -115,13 +115,10 @@ Wagi:
 --primary: #2e7d32;
 --primary-dark: #1b5e20;
 --secondary: #8bc34a;
-
 --text: #1f2937;
 --text-light: #6b7280;
-
 --background: #ffffff;
 --background-light: #f8faf8;
-
 --border: #e5e7eb;
 ```
 
@@ -312,7 +309,6 @@ Projekt należy wykonać przy użyciu:
 - CSS3
 - Flexbox
 - CSS Grid
-- Mobile First
 - JavaScript (opcjonalnie)
 
 ---
@@ -335,16 +331,9 @@ Projekt należy wykonać przy użyciu:
 ### Etap 3
 
 - [ ] Oferta
-- [ ] Galeria
 - [ ] Proces współpracy
 
 ### Etap 4
-
-- [ ] Opinie klientów
-- [ ] CTA
-- [ ] Footer
-
-### Etap 5
 
 - [ ] Responsywność
 - [ ] Animacje
